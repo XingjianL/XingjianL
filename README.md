@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Ph.D. student in Biological and Environmental Engineering, doing agricultural robotics and simulation stuff
+Ph.D. candidate in Biological and Environmental Engineering, doing agricultural robotics and simulation stuff
 
-B.S. Electrical Engineering
-
-personal/club/finished research projects
+B.S. and M.S. in Electrical Engineering
